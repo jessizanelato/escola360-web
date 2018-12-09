@@ -5,3 +5,4 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 - NodeJs (expressJs + ejs + bodyparser)
 - Firebase (Auth)
 - Bootstrap 4
+- jQuery 3.3
