@@ -8,7 +8,6 @@ $(document).ready(function(){
         var password = $("#inputPassword").val();
         firebase.auth().signInWithEmailAndPassword(email, password)
         .then(function(user){
-            firebase.auth().currentUser = user;
             window.location.href = './';
         })
         .catch(function(error) {

@@ -6,3 +6,7 @@ Projeto desenvolvido utilizando as seguintes tecnologias:
 - Firebase (Auth)
 - Bootstrap 4
 - jQuery 3.3
+
+Para subir o projeto:
+- npm install
+- npm start (porta 3000)
